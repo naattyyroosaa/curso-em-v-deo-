@@ -1,4 +1,4 @@
-# Um programa em python basico que crie uma tabuada com numeros inteiros.
+# Um programa em python basico que cria uma tabuada com numeros inteiros.
 
 
 n = int(input("Digite um numero para ver sua tabuada: "))
